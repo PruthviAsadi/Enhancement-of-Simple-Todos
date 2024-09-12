@@ -1,0 +1,22 @@
+.app-container {
+  background-color: #ffc2a0;
+  background-size: cover;
+  padding: 32px;
+}
+
+.list-container {
+  width: 100%;
+  background-color: #ffffff;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 32px;
+}
+
+.title {
+  color: #ff8542;
+  font-family: 'Roboto';
+  padding-top: 30px;
+}
